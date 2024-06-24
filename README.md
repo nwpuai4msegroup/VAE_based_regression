@@ -1,2 +1,2 @@
 # VAE_based_regression
-Self-supervised learning enables microstructure characterization for improved mechanical property prediction with sparse data
+Data and code for article “Deep learning strengthening mechanism for microstructure-mechanical property prediction with sparse data”
