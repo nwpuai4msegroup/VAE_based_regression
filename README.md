@@ -1,2 +1,2 @@
 # VAE_based_regression
-Data and code for article “Deep learning strengthening mechanism for microstructure-mechanical property prediction with sparse data”
+Data and code for article “Mapping microstructure to mechanical property by disentangling strengthening mechanism with deep learning”
